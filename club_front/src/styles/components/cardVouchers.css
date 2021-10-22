@@ -1,0 +1,77 @@
+.cardPanel {
+  transition: box-shadow 0.25s;
+  padding: 24px;
+  border-radius: 2px;
+  float: left;
+  position: relative;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  margin: 3vh 4vh 6vh 14vh;
+  width: 30vh;
+  height: 28vh;
+}
+
+@media screen and (max-width: 1440px) {
+  .cardPanel {
+    transition: box-shadow 0.25s;
+    padding: 24px;
+    border-radius: 2px;
+    float: left;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    margin: 3vh 6vh 6vh 12vh;
+    width: 42vh;
+    height: 28vh;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .cardPanel {
+    transition: box-shadow 0.25s;
+    padding: 24px;
+    border-radius: 2px;
+    float: left;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    margin: 3vh 6vh 6vh 6vh;
+    width: 38vh;
+    height: 28vh;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cardPanel {
+    transition: box-shadow 0.25s;
+    padding: 30px;
+    border-radius: 2px;
+    float: left;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    margin: 5vh 2vh 2vh 3vh;
+    width: 46vh;
+    height: 22vh;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cardPanel {
+    transition: box-shadow 0.25s;
+    padding: 40px;
+    border-radius: 2px;
+    float: left;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    margin: 4vh 0vh 4vh 3vh;
+    width: 36vh;
+    height: 30vh;
+  }
+}

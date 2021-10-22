@@ -1,0 +1,15 @@
+.searchBar {
+  width: 200px;
+  color: white;
+  margin: 0vh 0vh 0vh 8vh;
+}
+.searchBar input {
+  color: white;
+  padding: 1vh;
+}
+
+.formatIcon {
+  float: right;
+  position: absolute;
+  margin-top: 3vh;
+}

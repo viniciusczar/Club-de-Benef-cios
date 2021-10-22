@@ -1,0 +1,27 @@
+.btn.disabled {
+  text-decoration: bold;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.5px;
+  -webkit-transition: background-color 0.2s ease-out;
+  transition: background-color 0.2s ease-out;
+  cursor: pointer;
+}
+
+.bottomBox {
+  margin-bottom: 14px !important;
+}
+
+#scroll {
+  height: 500px;
+  overflow: scroll;
+}
+
+.textRecomendation {
+  margin-top: 10px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  color: #00ae9d;
+}

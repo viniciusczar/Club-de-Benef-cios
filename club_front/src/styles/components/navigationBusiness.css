@@ -1,0 +1,30 @@
+.navBar ul.nav {
+  margin: 0;
+  padding: 0;
+}
+
+.nav ul.nav li {
+  list-style: none;
+  display: inline;
+}
+.nav .a {
+  text-decoration: none;
+  float: right;
+  max-width: 8em;
+  min-width: 5.7em;
+  background: #00ae9d;
+  color: #003641;
+  text-align: center;
+  padding: 0 0.2em 0.2em 0;
+  border: 1px solid #003641;
+  border-radius: 0px 0 20px 4px;
+}
+.a:hover {
+  text-decoration: none;
+  background: #003641;
+  color: #00ae9d;
+  border-color: #000 #00ae9d #00ae9d #000;
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+}

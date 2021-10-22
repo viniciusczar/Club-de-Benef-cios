@@ -1,0 +1,28 @@
+@media screen and (max-width: 2560px) {
+  .containerVoucher {
+    margin: 40px 5px 0px 25px;
+  }
+}
+@media screen and (max-width: 1440px) {
+  .containerVoucher {
+    margin: 40px 0px 0px 70px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .containerVoucher {
+    margin: 35px 0px 0px 145px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .containerVoucher {
+    margin: 20px 10px 10px 14px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .containerVoucher {
+    margin: 26px 2px 4px 14px;
+  }
+}
