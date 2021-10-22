@@ -1,0 +1,18 @@
+@media screen and (max-width: 1440px) {
+  .container {
+    align-items: right;
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin-top: 10vh;
+    padding: 20vh 20vh 45vh 20vh;
+  }
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 320px) {
+}

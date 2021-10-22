@@ -1,0 +1,70 @@
+@media screen and (max-width: 2560px) {
+  .logoEdit {
+    width: 200px;
+  }
+  .boxDataBusinesses {
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 10vh 0vh 10vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+  .inputFile {
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    padding: vh 2vh 2vh 2vh;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .boxDataBusinesses {
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 5vh 5vh 0vh 5vh;
+    padding: 5vh 0vh 55vh 5vh;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .boxDataBusinesses {
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 5vh 0vh 5vh;
+    padding: 5vh 0vh 60vh 5vh;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .boxDataBusinesses {
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 5vh 0vh 5vh;
+    padding: 5vh 0vh 60vh 65vh;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .boxDataBusinesses {
+    position: relative;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 5vh 2vh 0vh 2vh;
+    padding: 5vh 0vh 80vh 20vh;
+  }
+}

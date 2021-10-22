@@ -1,0 +1,23 @@
+# Não utilizáveis, mas caso seja necessário atualizar o projeto, conforme segue:
+
+ap�s inserir em cadastro
+insere notification
+
+DELIMITER $
+CREATE TRIGGER APOS_SOLICITAR
+AFTER UPDATE ON USERS
+FOR EACH ROW
+BEGIN
+INSERT INTO NOTIFICATIONS (DOC) VALUES (NEW.DOC);
+END $
+DELIMITER ;
+
+
+DELIMITER $
+CREATE TRIGGER APOS_ATUALIZAR
+BEFORE UPDATE ON USERS
+FOR EACH ROW
+BEGIN
+SET NEW.UPDATED_AT = NOW();
+END $
+DELIMITER ;

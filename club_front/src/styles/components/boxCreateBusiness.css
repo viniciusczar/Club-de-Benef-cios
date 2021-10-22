@@ -1,0 +1,406 @@
+@media screen and (min-width: 2550px) {
+  .boxCreate {
+    width: 700px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 35vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 7.5vh;
+  }
+
+  .space-in-file {
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 290px;
+  }
+  .imputStyleEditionName {
+    width: 180px;
+  }
+
+  .boxLogoContent {
+    width: 200px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 13vh;
+  }
+}
+
+@media screen and (max-width: 1920px) {
+  .boxCreate {
+    width: 500px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 57vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 15vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 5vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 290px;
+  }
+  .imputStyleEditionName {
+    width: 180px;
+  }
+
+  .boxLogoContent {
+    width: 200px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 35vh;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .boxCreate {
+    width: 500px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 45vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 5vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 5vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 290px;
+  }
+  .imputStyleEditionName {
+    width: 180px;
+  }
+
+  .boxLogoContent {
+    width: 200px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 20vh;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .boxCreate {
+    width: 800px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 50vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 5vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 5vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 290px;
+  }
+  .imputStyleEditionName {
+    width: 180px;
+  }
+
+  .boxLogoContent {
+    width: 200px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 12vh;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .boxCreate {
+    width: 500px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 30vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 5vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 5vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 290px;
+  }
+  .imputStyleEditionName {
+    width: 180px;
+  }
+
+  .boxLogoContent {
+    width: 200px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 25vh;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .boxCreate {
+    width: 400px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 27.5vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 3vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 7.5vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 290px;
+  }
+  .imputStyleEditionName {
+    width: 180px;
+  }
+
+  .boxLogoContent {
+    width: 200px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 25vh;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .boxCreate {
+    width: 320px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 1.5vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 3vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 1.4vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 200px;
+  }
+  .imputStyleEditionName {
+    width: 100px;
+  }
+
+  .boxLogoContent {
+    width: 220px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 7vh;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .boxCreate {
+    width: 280px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: transparent;
+    border: 1px solid #00ae9d;
+    border-radius: 10px;
+    margin: 10vh 1vh 0vh;
+    padding: 5vh 5vh 5vh 5vh;
+  }
+
+  .space-in-form {
+    margin: 0vh 0vh 0vh 1.4vh;
+  }
+
+  .space-in-file {
+    margin: 0vh 0vh 0vh 1.2vh;
+    width: 190px;
+  }
+
+  .boxNameContent {
+    width: 200px;
+  }
+  .imputStyleEditionName {
+    width: 100px;
+  }
+
+  .boxLogoContent {
+    width: 220px;
+  }
+
+  .boxLogoContent img {
+    width: 180px;
+  }
+  .inputStyleEditionFile {
+    display: grid;
+    flex-direction: row;
+    width: 180px;
+  }
+
+  .boxCategorieContent {
+    width: 220px;
+  }
+
+  .buttonSubmit {
+    margin: 0vh 0vh 0 7vh;
+  }
+}

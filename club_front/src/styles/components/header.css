@@ -1,0 +1,20 @@
+.row {
+  margin: 0 auto;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #003641 !important;
+  background-color: #00ae9d !important;
+}
+
+.imageHeader {
+  width: 30%;
+  margin-left: 10%;
+  min-width: 30%;
+}
+
+.imageHeader img {
+  margin: 2% 0 2% !important;
+  width: 100%;
+  min-width: 40%;
+}

@@ -1,0 +1,24 @@
+/*Botão de solicitação de reset de senha*/
+
+.contentDisplay {
+  display: none;
+  color: #00ae9d;
+  font-size: 10px !important;
+}
+
+.forClick {
+  display: block;
+}
+
+#text-style-confirmation {
+  margin: 12% 10% 12% 10%;
+  color: rgb(206, 204, 204);
+  align-items: center;
+  position: flex;
+  display: block;
+}
+
+#text-style-confirmation p {
+  font-size: 18px;
+  text-align: center;
+}

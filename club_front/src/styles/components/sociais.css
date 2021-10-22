@@ -1,0 +1,20 @@
+a {
+  color: #c7d8d6;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container .row {
+  margin: 0 auto;
+}
+
+.white-icon {
+  color: white;
+}
+
+#container_socials {
+  margin-top: 1%;
+}

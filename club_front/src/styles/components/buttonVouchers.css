@@ -1,0 +1,120 @@
+.buttonVouchers {
+  float: center;
+  width: 50%;
+  margin: 0vh 0vh 0vh 50vh;
+  position: relative;
+  display: block;
+  background: #00ae9d;
+  color: #003641;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 0.4em;
+}
+.buttonVouchers:hover {
+  background: #003641;
+  color: #00ae9d;
+  border: 1px solid #00ae9d;
+}
+.buttonVouchers:disabled {
+  background: #888;
+  cursor: not-allowed;
+}
+
+@media screen and (max-width: 1440px) {
+  .buttonVouchers {
+    float: center;
+    width: 50%;
+    margin: 0vh 0vh 0vh 34vh;
+    position: relative;
+    display: block;
+    background: #00ae9d;
+    color: #003641;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 0.4em;
+  }
+  .buttonVouchers:hover {
+    background: #003641;
+    color: #00ae9d;
+    border: 1px solid #00ae9d;
+  }
+  .buttonVouchers:disabled {
+    background: #888;
+    cursor: not-allowed;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .buttonVouchers {
+    float: center;
+    width: 35%;
+    margin: 0vh 0vh 0vh 34vh;
+    position: relative;
+    display: block;
+    background: #00ae9d;
+    color: #003641;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 0.4em;
+  }
+  .buttonVouchers:hover {
+    background: #003641;
+    color: #00ae9d;
+    border: 1px solid #00ae9d;
+  }
+  .buttonVouchers:disabled {
+    background: #888;
+    cursor: not-allowed;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .buttonVouchers {
+    float: center;
+    width: 35%;
+    margin: 0vh 0vh 0vh 34vh;
+    position: relative;
+    display: block;
+    background: #00ae9d;
+    color: #003641;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 0.4em;
+  }
+  .buttonVouchers:hover {
+    background: #003641;
+    color: #00ae9d;
+    border: 1px solid #00ae9d;
+  }
+  .buttonVouchers:disabled {
+    background: #888;
+    cursor: not-allowed;
+  }
+}
+@media screen and (max-width: 320px) {
+  .buttonVouchers {
+    float: center;
+    width: 40%;
+    margin: 0vh 0vh 0vh 15vh;
+    position: relative;
+    display: block;
+    background: #00ae9d;
+    color: #003641;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .buttonVouchers:hover {
+    background: #003641;
+    color: #00ae9d;
+    border: 1px solid #00ae9d;
+  }
+  .buttonVouchers:disabled {
+    background: #888;
+    cursor: not-allowed;
+  }
+}
